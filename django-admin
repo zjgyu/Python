@@ -1,0 +1,11 @@
+安装django
+pip install django
+创建项目hotel
+django-admin startproject hotel
+启动服务器
+python manage.py runserver
+
+创建app
+python manage.py startapp citme
+
+建立model
